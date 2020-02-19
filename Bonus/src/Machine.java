@@ -11,10 +11,10 @@ public class Machine {
 		
 	 PowerList mahcine = new PowerList();
 	 
-	 machine.add("Person");
-	 machine.add("Engine");
-	 machine.add("WrapperEngine");
-	 machine.add("ProductionEngine");
-	 machine.add("HeatEngine");
+	 mahcine.add("Person");
+	 mahcine.add("Engine");
+	 mahcine.add("WrapperEngine");
+	 mahcine.add("ProductionEngine");
+	 mahcine.add("HeatEngine");
 	}
 }
